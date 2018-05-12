@@ -79,7 +79,7 @@ Category  Mothers day text message
 Being a great mother is a very hard role, but mother u r the star for this one I know, I love you Mom. Happy Mothers Day .
 Category  Mothers day text message
 
-Mommy, I love you For all that you do.I'll kiss you and hug you 'Cause you love me, too.You feed me and need me To teach you to play,So smile 'cause I love you On this Mother's Day. Mommy, I love you.Happy Mothers Day .
+Mommy, I love you For all that you do.I'll kiss you and hug you Cause you love me, too.You feed me and need me To teach you to play,So smile 'cause I love you On this Mother's Day. Mommy, I love you.Happy Mothers Day .
 Category  Mothers day text message
 
 A mother serves her sugar with A bit of peppermint To clarify the passages That carry what she meant When she first set to bear a soul Quite separate from her own, Whom she would cherish, yet must teach To live and die alone. 
@@ -98,4 +98,82 @@ Category  Mothers day text message
 
 Only luv never anger Teaching me Helping me Every smile when I was sad Raising me to be strong It spells Mother. Thanks for being u.Happy Mothers Day .
 Category  Mothers day text message
+Smiles of happy sunshine,
+Arms of everlasting luv,
+Touch of sweet roses,
+There is magic in the air
+Whenever ur there,
+Mother, everything to U I owe,
+May all pleasures of life come ur way.
+Happy Mothers day
+Love your parents
+and treat them
+with loving care...
+For you will
+only know
+their value
+when you see
+their empty chair...
+Youve seen me laugh
+Youve seen me cry
+And always you were there with me
+I may not have always said it
+But thanks and I love you
+Happy Mothers Day.
+I take this opportunity
+to thank you for
+your immeasurable
+contribution to my life.
+Thank you Mom!
+  And wish you a
+Very Happy Mothers Day!
+Hundreds of stars in the pretty sky,
+Hundreds of shells on the shore together,
+
+Hundreds of birds that go singing by,
+Hundreds of lambs in the sunny weather.
+
+Hundreds of dewdrops to greet the dawn,
+Hundreds of bees in the purple clover,
+
+Hundreds of butterflies on the lawn,
+But only one mother the world wide over.
+You have grown to be
+someone that I can trust with my own feelings,
+someone that I can look to when I need a helping hand, and
+someone that is a remarkable example of resilience and strength.
+The fact that youre my daughter makes me even more proud of who you are!
+  Happy Mothers Day!
+You are such an important part of our family
+and
+each day I am reminded of how special you are to
+me,
+my son,
+and my grandchildren.
+
+Happy Mothers Day To A Fabulous Daughter!
+  Youre not just my child.
+You are a mother.
+You are woman with her own responsibilities, tests, and experiences.
+You are an influence in the lives of your own children and in your family.
+May you continue to enjoy the success that you have experienced as a result of taking on the name...Mother!
+Happy Mothers Day, Daughter!
+  You deserve all of the honour and praise for all that you do.
+You are an excellent mother and sister.
+You are loved more than you may ever know!
+  
+Happy Mothers Day!
+You get a wish.
+In fact, Im sending you two.
+Its the least I could do
+for someone as magical as you!
+
+Happy Mothers Day From A Secret Friend!
+
+The Super most example of love in My life.
+
+When apples were 4 & we were 5,
+then my mother said,
+I dont like Apples.
+(Bu Ali Sina)
 "
