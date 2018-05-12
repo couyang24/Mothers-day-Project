@@ -3,8 +3,12 @@ library(readtext)
 library(rJava)
 require(qdap)
 library(wordcloud2)
+library(tidyverse)
 
-textFreq <- freq_terms(txt,100)
+textFreq <- freq_terms(txt,1000,stopwords = 'en')
+wordcloud2(textFreq, figPath = "ozGWO.png", size = 2.4, color="white", backgroundColor="firebrick")
+
+
 library(wordcloud2)
 wordcloud2(data = textFreq)
 
@@ -26,4 +30,4 @@ wordcloud2(demoFreq, figPath = "C:/Users/Owen/Projects/Star-Wars-Movie-Scripts/y
            size = 1.5, color = "skyblue", backgroundColor="black")
 
 
-wordcloud2(textFreq, figPath = "ozGWO.png", size = 2.5, color="white", backgroundColor="firebrick")
+wordcloud2(textFreq, figPath = "ozGWO.png", size = 2.4, color="white", backgroundColor="firebrick")
